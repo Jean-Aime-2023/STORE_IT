@@ -89,5 +89,4 @@ const Sidebar = ({ fullName, avatar, email }: Props) => {
 
 export default Sidebar;
 
-
-
+//Timestamp:  2:07

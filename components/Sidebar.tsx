@@ -88,3 +88,6 @@ const Sidebar = ({ fullName, avatar, email }: Props) => {
 };
 
 export default Sidebar;
+
+
+
